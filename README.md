@@ -1,8 +1,9 @@
 
 # AAAI 2025
 # TCPFormer: Learning Temporal Correlation with Implicit Pose Proxy for 3D Human Pose Estimation
-
-
+# Jiajie Liu, Mengyuan Liu, Hong Liu, Wenhao Li
+# State Key Laboratory of General Artificial Intelligence, Peking University, Shenzhen Graduate School
+# Nanyang Technological University
 ---
 
 ## Environment
